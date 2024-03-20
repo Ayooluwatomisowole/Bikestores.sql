@@ -2,7 +2,7 @@
 
 Welcome to the BikeStore Chain Data Analysis repository! Here, we analyze data from our bikestore chain's three locations to uncover insights that drive business decisions. Through data cleaning and exploration, we extract actionable insights to enhance sales, customer experience, and operational efficiency.
 
-Key Insights generated from queries:
+Key Insights derived from queries:
 
 Brand Engagement: Understand brand popularity and guide marketing strategies.
 
